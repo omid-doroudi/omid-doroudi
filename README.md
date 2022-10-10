@@ -8,6 +8,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/omid-doroudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omid-doroudi" height="30" width="40" /></a>
 <a href="https://kaggle.com/omiddoroudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omiddoroudi" height="30" width="40" /></a>
+<a href="https://medium.com/@omid.doroudi.95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omid.doroudi.95" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
